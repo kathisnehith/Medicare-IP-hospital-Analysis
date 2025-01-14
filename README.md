@@ -51,7 +51,7 @@ It serves as a vital resource for understanding healthcare utilization and finan
 ---
 
 ## **Key Findings**
-
+The insights derived from the dashboard are outlined below; please refer to the [**Dashboard**](https://public.tableau.com/app/profile/snehith.reddy.kathi/viz/medicare_inpatient_dashboard/Dashboard2) itself for a clearer and more interactive presentation of these findings.
 ### **Trends Over Time**
 - Medicare payments and patient out-of-pocket expenses showed a steady increase from **2017 to 2022**, reflecting rising healthcare costs.
 - While patient discharges remained stable initially, a **decline was observed post-2018**, indicating a shift in care delivery or reduced inpatient utilization.
@@ -73,3 +73,5 @@ It serves as a vital resource for understanding healthcare utilization and finan
 - Leading providers like **Massachusetts General Hospital**, **Mayo Clinic**, and **NYU Langone Hospitals** balanced discharge volumes and payments, highlighting their operational effectiveness.
 
 ---
+### **Acknowledgments**
+This project was conducted using Medicare Open Data, with a primary focus on utilizing Tableau to create visually compelling and stakeholder-friendly dashboards. The goal was to showcase the potential of clear, creative insights that are accessible to both technical and non-technical users, enabling seamless data exploration. The resources leveraged for building these Tableau dashboards include Tableau Public and official Tableau Documentation, which provided valuable guidance throughout the project.
