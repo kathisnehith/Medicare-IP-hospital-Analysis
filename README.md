@@ -1,4 +1,4 @@
-# Medicare_Inpatient_hospitals-Analysis/Visual report
+# Medicare-Inpatient-hospitals-Analysis/Report
 
 
 ## **Project Objective**
